@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikehade
 - 👀 I’m interested in data science and embedded systems
-- 🌱 I’m currently learning data science at International University of applied Sciences Bad Honnef Germany and various online courses in python, sql, Machine learning etc
+- 🌱 I’m currently in my finals learning data science at International University of applied Sciences Bad Honnef Germany and various online courses in python, sql, Machine learning etc
 - 💞️ I’m looking to collaborate on ML, python backend and embedded systems projects
 - 📫 You can reach me @ adeyerimichael0@gmail.com
 
